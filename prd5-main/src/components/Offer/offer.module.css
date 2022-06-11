@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    background: #13AE7E;
+
+    padding: 0.1%;
+    transform: translateY(-100%);
+}
+.text{
+    font-family: 'Roboto';
+font-style: normal;
+color: #FFFFFF;
+font-weight: 700;
+font-size: 200%;
+}
